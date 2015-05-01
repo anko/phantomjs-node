@@ -28,11 +28,11 @@
     "browserify": "10.0.0",
     "coffee-script": "~1.9.2",
     "coffeeify": "^1.1.0",
-    "express": "3.2.5",
-    "temp": "~0.4.0",
-    "ps-tree": "~0.0.2",
+    "express": "^4.12.3",
+    "temp": "^0.8.1",
+    "ps-tree": "^1.0.0",
     "vows": "~0.7.0",
-    "bluebird": "~1.2.3",
+    "bluebird": "^2.9.25",
     "phantomjs": "~1.9.7-5"
   },
   "licenses": {
