@@ -30,7 +30,6 @@
     "coffeeify": "^1.1.0",
     "express": "^4.12.3",
     "temp": "^0.8.1",
-    "ps-tree": "^1.0.0",
     "vows": "~0.7.0",
     "bluebird": "^2.9.25",
     "phantomjs": "~1.9.7-5"
